@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "name": "Awa Donacien Mokom",
+    "age": "12",
+    "department": "Web development",
+    "Fees": "1212121"
+  },
+  "image": {
+    "multipleFiles": {
+      "size": 7438372,
+      "path": "C:\\Users\\DONALS~1\\AppData\\Local\\Temp\\upload_31ee3b42d6cc3be04e30f46efeb223b1",
+      "name": "IMG_0660.JPG",
+      "type": "image/jpeg",
+      "mtime": "2020-04-06T10:53:13.321Z"
+    }
+  }
+}
